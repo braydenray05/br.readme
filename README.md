@@ -1,6 +1,6 @@
 ## 👏 Hi, I'm Brayden Ray
 ##  About Me
-I am at the end of my junior year at UTSA pursuing a bachelors in cyber security.  I curretly find an interest at collecting records and playing instruments.  Im a huge fan of musis and sports. 
+I am at the end of my junior year at UTSA pursuing a bachelors in cyber security.  I curretly find an interest at collecting records and playing instruments.  Im a huge fan of music and sports. GO SEAHAWKS!
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
